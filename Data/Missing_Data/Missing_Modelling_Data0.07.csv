@@ -1,0 +1,13 @@
+,feature,percent_missing
+Before_Money_Sent_Normed,Before_Money_Sent_Normed,6.13
+Before_Calls_to_Dar_Ward_Rank,Before_Calls_to_Dar_Ward_Rank,6.01
+Before_Calls_to_Dar_Subward_Rank,Before_Calls_to_Dar_Subward_Rank,6.01
+Before_Perc_of_Calls_to_Dar,Before_Perc_of_Calls_to_Dar,5.78
+After_Call_Entropy,After_Call_Entropy,5.78
+Before_Call_Entropy,Before_Call_Entropy,5.78
+Region_Education,Region_Education,3.07
+Region_Immunization_Measles,Region_Immunization_Measles,3.07
+Region_Antenatal_Visits,Region_Antenatal_Visits,3.07
+After_Mean_Balance,After_Mean_Balance,0.71
+Region_Parliament_Female_Male_Ratio,Region_Parliament_Female_Male_Ratio,0.47
+Region_Population_Millions,Region_Population_Millions,0.47

@@ -1,0 +1,12 @@
+2021-12-20 10:51:16
+Random Baseline: f1 score = 0.34234
+Constant Positive Baseline: f1 score = 0.53488
+row= model, col= baseline : 
+col_0  True  False
+row_0             
+True     31     60
+False    15     20
+McNemar test of homogeneity: Stat=15.00000; p=0.00000
+Logistic Regression 15 : f1 score = 0.63918
+Best Params: {'classification__C': 1.5, 'classification__class_weight': 'balanced', 'classification__l1_ratio': 0.15, 'classification__max_iter': 1000, 'classification__penalty': 'l1', 'classification__random_state': 1, 'classification__solver': 'saga', 'classification__tol': 1e-07}
+Logistic model 2 done. Time taken : 0:00:03.319214
